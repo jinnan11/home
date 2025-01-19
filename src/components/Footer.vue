@@ -13,18 +13,6 @@
           {{ fullYear }}
           <a :href="siteUrl">{{ siteAuthor }}</a>
         </span>
-        <!-- 以下信息请不要修改哦 -->
-        <span class="hidden">
-          <a :href="config.github" target="_blank">
-            {{ config.author }}
-          </a>
-        </span>
-        <!-- 站点备案 -->
-        <span>
-          <a v-if="siteIcp" href="https://icp.gov.moe" target="_blank">
-            {{ siteIcp }}
-          </a>
-        </span>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
