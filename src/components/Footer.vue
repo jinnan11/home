@@ -15,16 +15,9 @@
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
-          &amp;&nbsp;Made&nbsp;by
+          &amp;&nbsp;
           <a :href="config.github" target="_blank">
             {{ config.author }}
-          </a>
-        </span>
-        <!-- 站点备案 -->
-        <span>
-          &amp;
-          <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
-            {{ siteIcp }}
           </a>
         </span>
       </div>
@@ -59,7 +52,7 @@ const siteIcp = ref(import.meta.env.VITE_SITE_ICP);
 const siteAuthor = ref(import.meta.env.VITE_SITE_AUTHOR);
 const siteUrl = computed(() => {
   const url = import.meta.env.VITE_SITE_URL;
-  if (!url) return "https://i.jnpan.top";
+  if (!url) return "https://www.imsyy.top";
   // 判断协议前缀
   if (!url.startsWith("http://") && !url.startsWith("https://")) {
     return "//" + url;
