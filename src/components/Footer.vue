@@ -15,7 +15,7 @@
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
-          &amp;&nbsp;Made&nbsp;by
+          &amp;&nbsp;
           <a :href="config.github" target="_blank">
             {{ config.author }}
           </a>
