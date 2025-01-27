@@ -1,5 +1,11 @@
 [
   {
+    "name": "coolapk",
+    "icon": "/images/icon/coolapk.png",
+    "tip": "去 基安 看看",
+    "url": "https://www.coolapk.com/u/24497419"
+  },
+  {
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
