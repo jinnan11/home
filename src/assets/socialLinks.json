@@ -28,5 +28,17 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:3152598423@qq.com"
+  },
+  {
+    "name": "X",
+    "icon": "/images/icon/X.png",
+    "tip": "你懂的 ~",
+    "url": "https://x.com/jinnan_top"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/jinnan11"
   }
 ]
