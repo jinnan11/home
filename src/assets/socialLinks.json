@@ -12,12 +12,6 @@
     "url": "https://github.com/jinnan11"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/476165225"
-  },
-  {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "欢迎加入交流 ~",
@@ -28,12 +22,6 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:3152598423@qq.com"
-  },
-  {
-    "name": "X",
-    "icon": "/images/icon/X.png",
-    "tip": "你懂的 ~",
-    "url": "https://x.com/jinnan_top"
   },
   {
     "name": "Telegram",
