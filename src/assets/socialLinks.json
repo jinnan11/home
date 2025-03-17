@@ -18,15 +18,15 @@
     "url": "https://qm.qq.com/q/qtm9gzDLq2"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:3152598423@qq.com"
-  },
-  {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
     "url": "https://t.me/OJBK443"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:3152598423@qq.com"
   }
 ]
