@@ -43,9 +43,9 @@ const changeBg = (type) => {
   } else if (type == 1) {
     bgUrl.value = "https://api.hn/bing.php";
   } else if (type == 2) {
-    bgUrl.value = "https://api.hn/api.php?zd=zsy&fl=fengjing";
+    bgUrl.value = "https://t.alcy.cc/fj";
   } else if (type == 3) {
-    bgUrl.value = "https://api.hn/acg.php?zd=pc";
+    bgUrl.value = "https://t.alcy.cc/ycy";
   }
 };
 
