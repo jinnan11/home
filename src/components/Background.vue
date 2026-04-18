@@ -41,7 +41,7 @@ const changeBg = (type) => {
   if (type == 0) {
     bgUrl.value = `/images/background${bgRandom}.jpg`;
   } else if (type == 1) {
-    bgUrl.value = "https://api.hn/bing.php";
+    bgUrl.value = "https://bing.img.run/1920x1080.php";
   } else if (type == 2) {
     bgUrl.value = "https://t.alcy.cc/fj";
   } else if (type == 3) {
