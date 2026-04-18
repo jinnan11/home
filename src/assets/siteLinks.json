@@ -8,15 +8,5 @@
     "icon": "Blog",
     "name": "槿南博客",
     "link": "https://blog.jinnan.top/"
-  },
-  {
-    "icon": "Image",
-    "name": "槿南图床",
-    "link": "https://img.jinnan.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://up.jinnan.top/"
   }
 ]
